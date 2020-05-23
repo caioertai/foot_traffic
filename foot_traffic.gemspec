@@ -1,7 +1,7 @@
 require_relative "lib/foot_traffic/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "foot_traffic"
+  spec.name = "foot_trafficx"
   spec.version = FootTraffic::VERSION
   spec.authors = ["Andy B"]
   spec.email = ["andrey@lewagon.org"]
